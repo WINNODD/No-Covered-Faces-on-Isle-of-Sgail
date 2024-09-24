@@ -1,12 +1,13 @@
 {
 	"id": "WINNODD.nocoveredfacesonisleofsgail",
 	"name": "No Covered Faces on Isle of Sgail",
+	"updateCheck": "https://raw.githubusercontent.com/WINNODD/mod-update-checks/refs/heads/main/updater-no-covered-faces-on-isle-of-sgail.json",
 	"description": "Reveal everyone's secret identities by taking away their face covers. No Illuminati-like society exists anymore.",
 	"authors": [
 		"WINNODD"
 	],
 	"frameworkVersion": "2.0.0",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"contentFolders": [
 		"content"
 	]
